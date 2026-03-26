@@ -244,7 +244,7 @@
 					</plugin>
 					<plugin>
 						<artifactId>maven-resources-plugin</artifactId>
-						<version>3.1.0</version>
+						<version>3.5.0</version>
 						<executions>
 							<execution>
 								<id>copy-sql-scripts</id>
@@ -266,7 +266,7 @@
 					</plugin>
 					<plugin>
 						<artifactId>maven-resources-plugin</artifactId>
-						<version>3.1.0</version>
+						<version>3.5.0</version>
 						<executions>
 							<execution>
 								<id>copy-mongo-scripts</id>
@@ -440,7 +440,7 @@
 			</plugin>
 			<plugin>
 				<artifactId>maven-resources-plugin</artifactId>
-				<version>3.3.1</version>
+				<version>3.5.0</version>
 				<executions>
 					<execution>
 						<id>copy-resources</id>
